@@ -3,7 +3,7 @@
 
 setting database in backend/index.js
 
-run for backend npm start
+run for backend -> npm start
 
 
 ---------------------------------
